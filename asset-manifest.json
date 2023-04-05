@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/diabetes/static/css/main.6a21c322.css",
+    "main.js": "/diabetes/static/js/main.f014b22d.js",
+    "static/media/image.png": "/diabetes/static/media/image.28fa41d6cd86590da041.png",
+    "static/media/campus.png": "/diabetes/static/media/campus.24a38175ed8297b02322.png",
+    "static/media/image2.jpg": "/diabetes/static/media/image2.c2cae645a4c088666caf.jpg",
+    "index.html": "/diabetes/index.html",
+    "main.6a21c322.css.map": "/diabetes/static/css/main.6a21c322.css.map",
+    "main.f014b22d.js.map": "/diabetes/static/js/main.f014b22d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a21c322.css",
+    "static/js/main.f014b22d.js"
+  ]
+}
